@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Age Calculator in Minutes</string>
+    <string name="text_title_1">CALCULATE YOUR AGE!</string>
+    <string name="text_title_2">IN MINUTES</string>
+    <string name="text_selected_date_label">Selected Date</string>
+    <string name="text_selected_date_content"></string>
+    <string name="text_age_in_minutes_label">Age in minutes</string>
+    <string name="text_age_in_minutes_content"></string>
+    <string name="button_select_date">Select Date</string>
+</resources>
